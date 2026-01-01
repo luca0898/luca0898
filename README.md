@@ -2,7 +2,7 @@
 
 Senior Software Engineer focused on **Backend, Distributed Systems and Cloud Architecture**.
 
-- 🔭 Working with **.NET 8, AWS, Docker and Terraform**
+- 🔭 Working with **.NET, AWS, Docker and Terraform**
 - ☁️ Strong AWS experience (ECS, EC2, VPC, Aurora PostgreSQL)
 - ⚙️ Focused on performance, scalability and reliability
 
@@ -12,7 +12,7 @@ Senior Software Engineer focused on **Backend, Distributed Systems and Cloud Arc
 
 ### Backend & Languages
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Cloud & DevOps
